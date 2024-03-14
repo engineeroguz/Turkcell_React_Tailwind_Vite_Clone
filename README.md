@@ -1,8 +1,3 @@
-# React + Vite
+<h1>Turkcell React Tailwind Vite Clone</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/engineeroguz/Turkcell_React_Tailwind_Vite_Clone/assets/122749153/367e34db-1c09-4236-b5e2-e2b97ab0d8b8
